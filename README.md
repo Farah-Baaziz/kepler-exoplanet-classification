@@ -7,7 +7,8 @@ The data comes from the NASA Exoplanet Archive (*Cumulative KOI* table).
 
 ## Live Application
 
-**Try it online:** https://kepler-exoplanet-classification.streamlit.app
+**Try it online:** https://kepler-exoplanet-classification.streamlit.app/
+
 
 The application is hosted on Streamlit Community Cloud and is available at any time. It runs directly from this repository.
 
