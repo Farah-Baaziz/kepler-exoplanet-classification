@@ -1,0 +1,6 @@
+{
+  "threshold": 0.1,
+  "cost_ratio_fn_to_fp": 10,
+  "calibration": "sigmoid",
+  "model": "Gradient boosting (default)"
+}
